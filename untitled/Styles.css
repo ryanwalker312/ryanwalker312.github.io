@@ -1,0 +1,19 @@
+body {
+    background: blanchedalmond;
+    color: black;
+    font-size: 15pt;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+H1 {
+    font-size: 250%;
+    font-weight: bold;
+    color: navy;
+}
+H2 {
+    font-size: 180%;
+    font-weight: bold;
+    color: navy;
+}
+H3 {
+    font-size: 80%;
+    color: darkblue;
